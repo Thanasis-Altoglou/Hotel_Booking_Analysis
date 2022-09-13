@@ -10,4 +10,4 @@ Acknowledgements: The data is originally from the article Hotel Booking Demand D
 
 NOTE: Names, Emails, Phone Numbers, and Credit Card numbers in the data are synthetic and not real information from people. The hotel data is real from the publication listed above
 
-The dataset can be found on (kaggle)[https://www.kaggle.com/code/adityarawat10/eda-on-hotel-bookings/data]
+The dataset can be found on [kaggle](https://www.kaggle.com/code/adityarawat10/eda-on-hotel-bookings/data).
